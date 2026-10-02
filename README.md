@@ -25,39 +25,6 @@ Next.js API Routes REST APIs MongoDB Mongoose SQLite MariaDB
 Tools & Technologies
 Git GitHub Figma Android Studio Claude Code GitHub Copilot
 
-💼 Featured Projects
-
-🎓 UAL Academic Orchestrator
-
-Web application for automating and visualizing teacher payroll calculations.
-
-Next.js React TypeScript MongoDB Mongoose Chakra UI
-
-🍺 POS GETNET
-
-Offline-first Android POS system for sales and inventory management in a real business environment.
-
-React Native Expo TypeScript SQLite NativeWind
-
-🧠 Currently Learning
-
-* Advanced Next.js & TypeScript
-* Software Architecture
-* React Native & Expo
-* AI-assisted development
-
-👯 Looking to Collaborate On
-
-* 💻 Web applications
-* 📱 Mobile applications
-* 🚀 Open-source projects
-* 🤖 AI-powered applications
-
-📫 Contact
-
-🔗 LinkedIn: linkedin.com/in/carlos-flores-56116a228
-
-💻 GitHub: github.com/Daarkred
 
 ⚡ Fun Facts
 
